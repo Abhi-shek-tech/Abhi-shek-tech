@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhi-shek-tech
 - 👀 I’m interested in Software Testing and Data Science
-- 🌱 I’m currently learning Software Testing
+- 🌱 I’m currently a Software Tester
 - 💞️ I’m looking to collaborate on new tools
 -
 - 📫 How to reach me abhishekbindhani333@gmail.com
